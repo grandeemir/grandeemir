@@ -21,11 +21,11 @@ I'm currently studying:
 - Detection engineering basics
 
 ## 📫 How to reach me
-- LinkedIn: [https://www.linkedin.com/in/grandeemir/]
-- Email: [emircanozkara10@gmail.com]
-- LinkTree (all my links): [linktr.ee/grandeemir]
+- [LinkedIn](https://www.linkedin.com/in/grandeemir/)
+- [Email](emircanozkara10@gmail.com)
+- [LinkTree (all my links)](linktr.ee/grandeemir)
 
 ## 🧠 Quote I live by
-> "Güvenlik bir ürün değil, bir süreçtir." – Bruce Schneier
+> "Security is not a product, but a process." – Bruce Schneier
 
 Thanks for stopping by! 🚀
