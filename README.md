@@ -15,10 +15,10 @@ I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digi
 
 ## 📈 Learning Journey
 I'm currently studying:
-- Blue Team Labs Online (BTLO)
-- TryHackMe rooms (SOC and Blue Team focused)
+- Letsdefends
+- TryHackMe rooms 
 - MITRE ATT&CK Framework
-- Detection engineering basics
+- [My CyberSecurity Homelab](https://github.com/grandeemir/Homelab)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/grandeemir/)
