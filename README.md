@@ -22,8 +22,8 @@ I'm currently studying:
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/grandeemir/)
-- [Email](emircanozkara10@gmail.com)
-- [LinkTree (all my links)](linktr.ee/grandeemir)
+- [Email:] (emircanozkara10@gmail.com)
+- [LinkTree (all my links)](https://www.linktr.ee/grandeemir)
 
 ## 🧠 Quote I live by
 > "Security is not a product, but a process." – Bruce Schneier
