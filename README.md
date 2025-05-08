@@ -10,7 +10,7 @@ I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digi
 - Operating Systems: Windows (Admin level), Linux (User/Admin level)
 
 ## 🎯 Current Goals
-- Get certified: CompTIA CYSA+ and eventually,or SC-200
+- Get certified: Microsoft SC-200
 - Land my first job as a Junior SOC Analyst 🚀
 
 ## 📈 Learning Journey
