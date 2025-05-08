@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Emircan!
 
-<!--
-**grandeemir/grandeemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digital defense. I'm currently building my skills in SIEM tools, incident response, threat hunting, and more — every single day.
 
-Here are some ideas to get you started:
+## 🔧 I currently Learning Skills & Tools
+- SIEM: Splunk, Wazuh (learning)
+- Endpoint Security: CrowdStrike (learning phase)
+- Scripting: Python (for automating tasks and analysis)
+- Networking: TCP/IP, OSI Model, basic packet analysis
+- Operating Systems: Windows (Admin level), Linux (User/Admin level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goals
+- Get certified: CompTIA CYSA+ and eventually,or SC-200
+- Land my first job as a Junior SOC Analyst 🚀
+
+## 📈 Learning Journey
+I'm currently studying:
+- Blue Team Labs Online (BTLO)
+- TryHackMe rooms (SOC and Blue Team focused)
+- MITRE ATT&CK Framework
+- Detection engineering basics
+
+## 📫 How to reach me
+- LinkedIn: [https://www.linkedin.com/in/grandeemir/]
+- Email: [emircanozkara10@gmail.com]
+- LinkTree (all my links): [linktr.ee/grandeemir]
+
+## 🧠 Quote I live by
+> "Güvenlik bir ürün değil, bir süreçtir." – Bruce Schneier
+
+Thanks for stopping by! 🚀
