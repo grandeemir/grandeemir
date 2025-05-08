@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Emircan!
+# 👋 Hi there, I'm Emir!
 
 I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digital defense. I'm currently building my skills in SIEM tools, incident response, threat hunting, and more — every single day.
 
