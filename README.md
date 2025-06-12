@@ -5,6 +5,7 @@ I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digi
 ## 🎯 Current Goals
 - Get certified: Microsoft SC-200 && CompTIA Cysa+
 - Land my first job as a Junior SOC Analyst 🚀
+- and I leraning to german
 
 ## 📈 Learning Journey
 I'm currently studying:
