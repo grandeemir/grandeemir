@@ -2,15 +2,8 @@
 
 I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digital defense. I'm currently building my skills in SIEM tools, incident response, threat hunting, and more — every single day.
 
-## 🔧 I currently Learning Skills & Tools
-- SIEM: Splunk, Wazuh (learning)
-- Endpoint Security: CrowdStrike (learning phase)
-- Scripting: Python (for automating tasks and analysis)
-- Networking: TCP/IP, OSI Model, basic packet analysis
-- Operating Systems: Windows (Admin level), Linux (User/Admin level)
-
 ## 🎯 Current Goals
-- Get certified: Microsoft SC-200
+- Get certified: Microsoft SC-200 && CompTIA Cysa+
 - Land my first job as a Junior SOC Analyst 🚀
 
 ## 📈 Learning Journey
