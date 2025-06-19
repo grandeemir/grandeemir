@@ -19,7 +19,3 @@ I'm currently studying:
 - [LinkTree (all my links)](https://www.linktr.ee/grandeemir)
 - [Email:] (emircanozkara10@gmail.com)
 
-## 🧠 
-> "Security is not a product, but a process." – Bruce Schneier
-
-Thanks for stopping by! 🚀
