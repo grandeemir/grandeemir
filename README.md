@@ -10,6 +10,8 @@ I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digi
 ## 📈 Learning Journey
 I'm currently studying:
 - Letsdefend
+- Cyberdefenders.org
+- 
 - TryHackMe rooms 
 - MITRE ATT&CK Framework
 - [My CyberSecurity Homelab](https://github.com/grandeemir/Homelab)
