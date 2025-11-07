@@ -3,9 +3,7 @@
 I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digital defense. I'm currently building my skills in SIEM tools, incident response, threat hunting, and more — every single day.
 
 ## 🎯 Current Goals
-- Get certified: Microsoft SC-200 && CompTIA Cysa+
-- Land my first job as a Junior SOC Analyst 🚀
-- and I leraning to german
+- Get certified: CCNA && CompTIA Cysa+
 
 ## 📈 Learning Journey
 I'm currently studying:
