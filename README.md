@@ -3,7 +3,7 @@
 I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digital defense. I'm currently building my skills in SIEM tools, incident response, threat hunting, and more — every single day.
 
 ## 🎯 Current Goals
-- Get certified: CCNA && CompTIA Cysa+
+- Get certified: AWS SAA-C03
 
 ## 📈 Learning Journey
 I'm currently studying:
