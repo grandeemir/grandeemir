@@ -7,17 +7,6 @@
 🔐 Focused on building secure and scalable cloud infrastructures  
 🚀 Currently preparing for AWS Certifield Security Speciality  
 
-## Featured Projects
-> A selection of my hands-on labs and real-world style projects:
-
-[🔐 Cyber Security Homelab](https://github.com/grandeemir/Cybersecurity-Homelab)  
-
-[☁️ Terraform AWS Playground](https://github.com/grandeemir/terraform-aws-playground)  
-
-[AWS Bash/shell Managament App](https://github.com/grandeemir/AWS-Examples)
-
-[Vigilanteye - Threat Intel APP](https://github.com/grandeemir/VigilantEye)  
-
 #
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grandeemir&theme=tokyonight)
