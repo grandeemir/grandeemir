@@ -1,21 +1,34 @@
-# 👋 Hi there, I'm Emir!
+# Hi, I'm Emir 👋  
+![Typing](https://readme-typing-svg.herokuapp.com?lines=Cloud+Security+Engineer;AWS+Cloud+Engineer;Terraform;DevSecOps)  
 
-I'm an aspiring **SOC Analyst** with a strong passion for cybersecurity and digital defense. I'm currently building my skills in SIEM tools, incident response, threat hunting, and more — every single day.
+🔐 Focused on building secure and scalable cloud infrastructures  
+🚀 Currently preparing for AWS Certifield Security Speciality  
 
-## 🎯 Current Goals
-- Get certified: AWS SAA-C03
+## Tech Stack
+![My Skills](https://skillicons.dev/icons?i=aws,terraform,kali,linux,bash,grafana,python,docker,git,github)
 
-## 📈 Learning Journey
-I'm currently studying:
-- Letsdefend
-- Cyberdefenders.org
-- 
-- TryHackMe rooms 
-- MITRE ATT&CK Framework
-- [My CyberSecurity Homelab](https://github.com/grandeemir/Homelab)
+## Areas of Interest
+- Cloud Security Engineer  
+- Identity & Access Management (IAM)  
+- Infrastructure as Code (Terraform)  
+- DevSecOps Practices  
+- AWS Well-Architected Framework  
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/grandeemir/)
-- [LinkTree (all my links)](https://www.linktr.ee/grandeemir)
-- [Email:] (emircanozkara10@gmail.com)
+## Featured Projects
+> A selection of my hands-on labs and real-world style projects:
 
+- [🔐 Cyber Security Homelab](https://github.com/grandeemir/Cybersecurity-Homelab)  
+- [☁️ Terraform AWS Playground](https://github.com/grandeemir/terraform-aws-playground)  
+- [AWS Bash/shell Managament App](https://github.com/grandeemir/AWS-Examples)
+- [Vigilanteye - Threat Intel APP](https://github.com/grandeemir/VigilantEye)  
+
+## Certifications & Goals
+- AWS Certified Solutions Architect – Associate (in progress)  
+- Next: AWS Security Specialty (SCS)   
+
+## Let's Connect
+- [Github](https://github.com/grandeemir)  
+- [Linkedin](https://www.linkedin.com/in/grandeemir/)
+- [Mail](grandeemir@icloud.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=grandeemir&color=blue)
