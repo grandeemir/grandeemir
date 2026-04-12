@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Cloud+Security+Engineer;Terraform;;DevSecOps;AWS+Solutution+Architech+-+Associate)](https://git.io/typing-svg)
 
 🔐 Focused on building secure and scalable cloud infrastructures  
-🚀 Currently preparing for AWS Certifield Security Speciality  
+🚀 Currently preparing for AZ-104 and after that AZ-305
 
 #
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
